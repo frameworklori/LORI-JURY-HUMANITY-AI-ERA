@@ -1,6 +1,6 @@
 
 
-✅1. The Importance of Human "Quantity" Will Rapidly Decline
+# ✅1. The Importance of Human "Quantity" Will Rapidly Decline
 
 The reason is very simple:
 AI + robots can provide:
