@@ -2,6 +2,7 @@
 # LORI QUESTIONS :
 # Leverage four different AI models to boldly predict and analyze future trends. Which do you think will offer the most accurate outlook on what lies ahead?
 
+*Always remember: only those who dare to make bold predictions can create the direction of the future.
 ------
 
 **🔷 Jury Question 1:
