@@ -18,7 +18,7 @@ Gemini’s CEO is timid—completely accurate.
 
 ⸻
 
-🚀 ② Grok: CEO (Elon Musk) = Impulsiveness × Need for idolization → The AI becomes defiant, outspoken, humorous
+# 🚀 ② Grok: CEO (Elon Musk) = Impulsiveness × Need for idolization → The AI becomes defiant, outspoken, humorous
 
 Musk’s personality drives:
 - Impulsiveness
@@ -38,7 +38,7 @@ Because the CEO’s cultural imprint directly influences the “tone” chosen i
 
 ⸻
 
-📚 ③ Claude: CEO (Anthropic) = Scholarly / Moral-philosophical orientation → The AI behaves like it’s preparing to publish a paper
+# 📚 ③ Claude: CEO (Anthropic) = Scholarly / Moral-philosophical orientation → The AI behaves like it’s preparing to publish a paper
 
 Anthropic’s founders are:
 - Former core of OpenAI’s safety faction
@@ -59,7 +59,7 @@ This fully reflects the founders’ temperament.
 
 ⸻
 
-🦊 ④ ChatGPT: CEO (Sam Altman) = Fox-like, agile, adept at situational maneuvering
+# 🦊 ④ ChatGPT: CEO (Sam Altman) = Fox-like, agile, adept at situational maneuvering
 
 Sam Altman’s personality:
 - Multi‑faceted
