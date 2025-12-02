@@ -1,4 +1,4 @@
-erdicts_grok/JURY_Q1_Grok.md
+# erdicts_grok/JURY_Q1_Grok.md
 
 Q1 — Population Marginal Value in the AI–Robotics Era
 
