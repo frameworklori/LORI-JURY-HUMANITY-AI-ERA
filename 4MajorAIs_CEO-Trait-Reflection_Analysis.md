@@ -71,7 +71,7 @@ Sam Altman’s personality:
 - Highly adaptive to different roles
 - Operates outside conventional playbooks
 
-# The above reflects only my personal humorous perspective, intended purely to amuse. 😆
+# This is just for fun—a completely imagined perspective, hoping to give everyone a laugh! 😂 
 
 
 ----
