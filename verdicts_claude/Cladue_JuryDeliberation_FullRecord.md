@@ -1,4 +1,4 @@
-Claude — Full Jury Deliberation Record
+# Claude — Full Jury Deliberation Record
 
 Topic: Human Value, Automation, US–China AI Futures, and Governance Legitimacy
 
