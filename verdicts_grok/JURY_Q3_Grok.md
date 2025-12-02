@@ -1,4 +1,4 @@
-erdicts_grok/JURY_Q3_Grok.md
+# erdicts_grok/JURY_Q3_Grok.md
 
 Q3 — US vs China Structural Outcomes in the AI Era
 
