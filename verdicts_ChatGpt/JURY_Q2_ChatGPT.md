@@ -1,4 +1,4 @@
-In the AI era, population quantity becomes a liability, and in the climate era, it becomes a disaster multiplier.
+# In the AI era, population quantity becomes a liability, and in the climate era, it becomes a disaster multiplier.
 
 “Quality” is the only truly sustainable asset for civilization.**
 
