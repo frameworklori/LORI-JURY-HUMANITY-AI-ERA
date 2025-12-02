@@ -1,4 +1,4 @@
-erdicts_grok/JURY_Q4_Grok.md
+# erdicts_grok/JURY_Q4_Grok.md
 
 Q4 — Automation, Overproduction & Secular Deflation
 
