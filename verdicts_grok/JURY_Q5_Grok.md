@@ -1,6 +1,4 @@
-erdicts_grok/JURY_Q5_Grok.md
-
-Q5 — Human Veto Power & Boundary of Human Civilization
+# Q5 — Human Veto Power & Boundary of Human Civilization
 
 (Grok Verdict)
 
