@@ -61,7 +61,4 @@ Grok 最終裁決
 文明不需要數十億人口；只需擁有正確能力向量的幾千人。
 若低於該門檻 → 自主性將不可逆失落。
 
-Grok Final Judgment
 
-Civilization does not require billions; it requires thousands with the correct capability vector.
-Fall below the threshold → irreversible loss of autonomy.
