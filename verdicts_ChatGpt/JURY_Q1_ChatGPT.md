@@ -82,6 +82,8 @@ Only these humans can shape the direction of civilization, determine the path of
 
 The era of quantity has ended. The era of the quality of the mind has begun.
 
+---------
+
 ✅1. 人類「量」的重要性會急速下降
 
 原因非常簡單：
