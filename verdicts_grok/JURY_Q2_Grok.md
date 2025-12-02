@@ -13,10 +13,9 @@ Critical Capabilities (AI cannot replace safely)
 
 Minimal Human Critical Mass
 
-Using redundancy theory:
+Using redundancy theory and dunbar's number:
 CriticalMass = 150 × (number of indispensable capabilities)
-
-If the above 5 are required:
+  the above 5 are required:
 
 → 750 humans minimum
 → safer threshold: 3,000–5,000 globally
@@ -47,7 +46,7 @@ Q2 —— 人類能力的文明臨界質量
 
 最低人類臨界質量
 
-採用冗餘理論：
+採用鄧巴數(dunbar's number) + 能力冗餘理論(Redundancy Theory)：
 臨界質量 = 150 ×（不可或缺能力的數量）
 
 如果上述 5 項是必須的：
