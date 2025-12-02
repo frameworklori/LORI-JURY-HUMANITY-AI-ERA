@@ -71,6 +71,9 @@ Sam Altman’s personality:
 - Highly adaptive to different roles
 - Operates outside conventional playbooks
 
+# The above reflects only my personal humorous perspective, intended purely to amuse. 😆
+
+
 ----
 
 🧩 ① Gemini：CEO（Google）＝膽小怕事型 → 產品自然變得保守
@@ -146,3 +149,5 @@ Sam Altman 的人格是：
 	•	前瞻＋商業敏銳度兼具
 	•	很懂得適應不同角色
 	•	做事不按一般規則走
+
+	# 以上只是個人幽默風趣觀點，博大眾歡笑😆
