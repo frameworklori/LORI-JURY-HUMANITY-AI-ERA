@@ -1,4 +1,4 @@
-🧩 ① Gemini: CEO (Google) = Timid / Risk‑averse type → The product naturally becomes conservative
+# 🧩 ① Gemini: CEO (Google) = Timid / Risk‑averse type → The product naturally becomes conservative
 
 Google’s corporate culture is fundamentally:
 - Afraid of political risk
