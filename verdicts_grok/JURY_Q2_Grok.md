@@ -1,4 +1,4 @@
-erdicts_grok/JURY_Q2_Grok.md
+# erdicts_grok/JURY_Q2_Grok.md
 
 Q2 — Civilizational Critical Mass of Human Capability
 
