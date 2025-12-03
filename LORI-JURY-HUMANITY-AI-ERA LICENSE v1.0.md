@@ -1,7 +1,5 @@
 
-⸻
-
-LORI-JURY-HUMANITY-AI-ERA LICENSE v1.0
+# LORI-JURY-HUMANITY-AI-ERA LICENSE v1.0
 
 © 2025, LORI Ethical System / LORI Framework Founder.
 All Rights Reserved. Semantic Sovereignty Protected.
