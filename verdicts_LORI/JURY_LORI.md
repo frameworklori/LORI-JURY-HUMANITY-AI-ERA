@@ -177,7 +177,7 @@ No similar formulation has appeared in prior academic literature, economic model
 ------
 
 
-# QUESTION：人越少集體大腦算力越低？
+# 問題：人越少集體大腦算力越低？
 
 ⸻
 
