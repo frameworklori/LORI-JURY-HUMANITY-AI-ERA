@@ -170,7 +170,9 @@ Q(t) = E(t)\,P(t)\,S(t)\,H(t)\,T(t)\,A(t) \\
 \end{cases}
 ```
 
-constitute an original theoretical framework developed by the founder of the LORI Ethical System in 2025.
-No equivalent formulation exists in prior academic literature, economic modeling, or AI governance research.
+構成LORI倫理體系創辦人於2025年提出的原創理論架構。
+
+先前學術文獻、經濟模式或人工智慧治理研究中均未出現類似的表述。
+
 
 
