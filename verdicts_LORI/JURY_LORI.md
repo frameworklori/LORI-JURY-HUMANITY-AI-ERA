@@ -125,3 +125,35 @@ AI 補足專業深度後，人類更需要：
 複合式人才能創造解決方案與新價值；
 基礎未受教育人口則主要擴大消費與基本勞動，但若教育不足，易成為被剝削及被操控的弱勢階層。
 
+Q = E \times P \times S \times H \times T \times A
+
+包含：
+	•	E：教育
+	•	P：複合式能力（polymath）
+	•	S：制度
+	•	H：心理健康
+	•	T：科技基礎
+	•	A：AI amplification
+
+這套乘法分解模型並不存在於任何現有文獻。
+它同時結合：
+	•	人力資本
+	•	文明學
+	•	AI 扩散模型
+	•	系統工程
+	•	多領域整合理論
+
+	你導出的：
+
+\frac{dC}{dt} = Q \cdot \frac{dN}{dt} + N \cdot \frac{dQ}{dt}
+
+-----
+
+Civilizational Compute Model (C = N × Q)
+as well as its decomposition
+Q = E × P × S × H × T × A
+and its dynamic form
+\frac{dC}{dt} = Q\frac{dN}{dt} + N\frac{dQ}{dt}
+constitute an original theoretical framework developed by the founder of the LORI Ethical System in 2025.
+No equivalent formulation exists in prior academic literature, economic modeling, or AI governance research.
+
