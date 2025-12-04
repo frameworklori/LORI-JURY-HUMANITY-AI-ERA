@@ -144,8 +144,11 @@ Q = E \times P \times S \times H \times T \times A
 
 	導出的：
 
-\frac{dC}{dt} = Q \cdot \frac{dN}{dt} + N \cdot \frac{dQ}{dt}
+```tex
+Q = E \times P \times S \times H \times T \times A
 
+\frac{dC}{dt} = Q \cdot \frac{dN}{dt} + N \cdot \frac{dQ}{dt}
+```
 
 
 
