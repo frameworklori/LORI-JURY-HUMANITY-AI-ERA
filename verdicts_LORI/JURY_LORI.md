@@ -125,30 +125,49 @@ AI 補足專業深度後，人類更需要：
 複合式人才能創造解決方案與新價值；
 基礎未受教育人口則主要擴大消費與基本勞動，但若教育不足，易成為被剝削及被操控的弱勢階層。
 
-Q = E \times P \times S \times H \times T \times A
+令：
 
-包含：
-	•	E：教育
-	•	P：複合式能力（polymath）
-	•	S：制度
-	•	H：心理健康
-	•	T：科技基礎
-	•	A：AI amplification
+- \(N = N(t)\)：人口是時間的函數  
+- \(Q = Q(t)\)：每人文明算力品質是時間的函數  
+- \(C = C(t)\)：整體文明算力
 
-它同時結合：
-	•	人力資本
-	•	文明學
-	•	AI 擴散型模組
-	•	系統工程
-	•	多領域整合理論
+定義整體文明算力函數：
 
-	導出的：
-
-```tex
-Q = E \times P \times S \times H \times T \times A
-
-\frac{dC}{dt} = Q \cdot \frac{dN}{dt} + N \cdot \frac{dQ}{dt}
+```math
+C(t) = N(t)\,Q(t)
 ```
 
+對時間 \(t\) 求導，依乘法法則（product rule）：
+
+```math
+\frac{dC}{dt}
+= \frac{d}{dt}\bigl(N(t)\,Q(t)\bigr)
+= Q(t)\,\frac{dN(t)}{dt} + N(t)\,\frac{dQ(t)}{dt}
+```
+
+再把 \(Q\) 展開成多因子函數：
+
+```math
+Q(t) = E(t)\,P(t)\,S(t)\,H(t)\,T(t)\,A(t)
+```
+
+其中：
+
+- \(E(t)\)：教育  
+- \(P(t)\)：複合式能力（polymath）  
+- \(S(t)\)：制度  
+- \(H(t)\)：心理健康  
+- \(T(t)\)：科技基礎  
+- \(A(t)\)：AI 放大係數  
+
+因此整體模型可以寫成：
+
+```math
+\begin{cases}
+C(t) = N(t)\,Q(t) \\
+Q(t) = E(t)\,P(t)\,S(t)\,H(t)\,T(t)\,A(t) \\
+\displaystyle \frac{dC}{dt} = Q(t)\,\frac{dN}{dt} + N(t)\,\frac{dQ}{dt}
+\end{cases}
+```
 
 
